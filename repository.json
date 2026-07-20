@@ -1,0 +1,13 @@
+{
+  "name": "Reolink MQTT Bridge",
+  "url": "https://github.com/bloodybeginner-spec/reolink-mqtt-addon",
+  "maintainer": "anonymous",
+  "addons": [
+    {
+      "slug": "reolink_mqtt_bridge",
+      "name": "Reolink MQTT Bridge",
+      "description": "KI-Events der Reolink RLC-520A über MQTT in Home Assistant",
+      "repository": "local"
+    }
+  ]
+}
