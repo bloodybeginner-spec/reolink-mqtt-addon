@@ -1,0 +1,13 @@
+{
+  "name": "Reolink MQTT Bridge",
+  "maintainer": "bloodybeginner-spec",
+  "apps": [
+    {
+      "domain": "reolink_mqtt_app",
+      "name": "Reolink MQTT Bridge",
+      "description": "Integriert Reolink KI-Events (Person, Fahrzeug, Tier, Paket) über MQTT in Home Assistant.",
+      "version": "1.0.0",
+      "documentation": "https://github.com/bloodybeginner-spec/reolink-mqtt-app"
+    }
+  ]
+}
